@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style parent="android:Theme" name="Theme.BackgroundaParto">
+<item name="android:windowBackground">@drawable/background_aparto</item>
+<item name="android:windowNoTitle">true</item>
+</style>
+</resources>

@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <style type='text/css'>
+      a            { color:#d45500 }
+      div.title    { 
+          color:#00aad4; 
+          font-size:1.2em; 
+          font-weight:bold; 
+          margin-top:1em; 
+          margin-bottom:0.5em; 
+          text-align:center }
+      div.subtitle { 
+          color:#00aad4; 
+          font-size:0.8em; 
+          margin-bottom:1em; 
+          text-align:center }
+      div.freetext { color:#efefef }
+      div.list     { color:#d7eef4 }
+    </style>
+  </head>
+  <body>
+$ 2.3
+  % Version 2.3
+  _ 2014-05-07
+    * Aggiunta traduzione in tedesco (grazie Rolf)
+$ 2.2
+  % Version 2.2
+  _ 2012-10-28
+    * Aggiunto autocompletamento del numero di telefono nella gestione profilo
+    * Migliorata la maschera delle impostazioni del profilo
+$ 2.1
+  % Versione 2.1
+  _ 2011-09-29
+    * Alcune migliorie creando un nuovo profilo
+$ 2.0
+  % Versione 2.0
+  _ 2011-06-15
+    * Aggiunto supporto a multipli profili SMS
+    * Migliorata interfaccia per tutti i dispositivi (inclusi tablet)
+	* Aggiunta traduzione in italiano
+	* Aggiunto sipporto ad Android 2.1
+$ 1.0.4
+  % Versione 1.0.4
+  _ 2011-03-20
+	* Aggiunta immagine di sfondo e migliorata GUI
+$ 1.0.3
+  % Versione 1.0.3
+  _ 2011-03-08
+	* Bloccato l'invio di SMS dopo il click per evitare multipli invii
+	* Nelle impostazioni del testo del messaggio, aggiunti i modelli
+$ 1.0.2
+  % Versione 1.0.2
+  _ 2011-02-15
+	* Aggiunta spunta per avere il "report di ricezione" dell'sms
+$ END_OF_CHANGE_LOG
+  </body>
+</html>

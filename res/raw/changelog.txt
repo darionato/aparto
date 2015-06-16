@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <style type='text/css'>
+      a            { color:#d45500 }
+      div.title    { 
+          color:#00aad4; 
+          font-size:1.2em; 
+          font-weight:bold; 
+          margin-top:1em; 
+          margin-bottom:0.5em; 
+          text-align:center }
+      div.subtitle { 
+          color:#00aad4; 
+          font-size:0.8em; 
+          margin-bottom:1em; 
+          text-align:center }
+      div.freetext { color:#efefef }
+      div.list     { color:#d7eef4 }
+    </style>
+  </head>
+  <body>
+$ 2.3
+  % Version 2.3
+  _ 2014-05-07
+    * Add German translation (thanks Rolf)
+$ 2.2
+  % Version 2.2
+  _ 2012-10-28
+    * Add the auto complete contact phone number in the profile setting
+    * Enhance profile setting window
+$ 2.1
+  % Version 2.1
+  _ 2011-09-29
+    * Few improvement adding new profiles
+$ 2.0
+  % Version 2.0
+  _ 2011-06-15
+    * Add multiple SMS configuration
+    * Improve layout and graphic to all devices (include tablet)
+	* Add Italian translation
+	* Add Android 2.1 support
+$ 1.0.4
+  % Version 1.0.4
+  _ 2011-03-20
+	* Add the background image and enhance GUI
+$ 1.0.3
+  % Version 1.0.3
+  _ 2011-03-08
+	* Block the send button after click to exclude the possibility of send more that one SMS
+	* On the setting now you can insert few dynamic text models
+$ 1.0.2
+  % Version 1.0.2
+  _ 2011-02-15
+	* Add check to require the "delivery report" of the SMS
+$ END_OF_CHANGE_LOG
+  </body>
+</html>

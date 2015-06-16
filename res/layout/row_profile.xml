@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:padding="6dip"
+    android:background="#00000000" android:gravity="center_vertical" android:layout_height="wrap_content">
+        <ImageView android:src="@drawable/button" android:paddingRight="5dp" android:layout_width="wrap_content" android:id="@+id/imgButton" android:layout_height="match_parent" android:layout_centerVertical="true"></ImageView>
+        <ImageView android:src="@drawable/car" android:id="@+id/imgCarStart" android:paddingRight="5dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_centerVertical="true"></ImageView>
+        <LinearLayout android:orientation="vertical" android:id="@+id/linLayoutInfo" android:layout_width="match_parent" android:layout_toRightOf="@id/imgButton" android:gravity="center_vertical" android:layout_height="match_parent" android:layout_centerVertical="true">
+            <TextView android:shadowDy="0.5" android:textStyle="bold" android:id="@+id/txtProfileName" android:textSize="30dp" android:textColor="#00aad4" android:layout_width="match_parent" android:layout_height="wrap_content" android:shadowColor="#000000" android:shadowDx="0.5" android:text="TextView" android:shadowRadius="1"></TextView>
+            <TextView android:id="@+id/txtPhoneNumber" android:textSize="15dp" android:textColor="#1a1a1a" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="TextView"></TextView>
+        </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/mnuAddProfile" android:title="@string/add_profile" android:icon="@drawable/ic_menu_add"></item>
+<item android:id="@+id/mnuAbout" android:title="@string/about" android:icon="@drawable/ic_menu_info_details"></item>
+</menu>
