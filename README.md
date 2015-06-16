@@ -1,16 +1,16 @@
-==DESCRIPTION==
+## DESCRIPTION ##
 
 Send configured SMS to advise about something, for example, to let your girl friend know each time that you are leaving home to meet her in a simple click. Or to advise that your late at work. ;-)
 
-==REQUIREMENT==
+## REQUIREMENT ##
 
 Android: 2.1 or latest
 
-==FEEDBACK==
+## FEEDBACK ##
 
 You are welcome to send any comment to dario.malfatti@gmail.com
 
-==DOWNLOAD==
+## DOWNLOAD ##
 
 Android market
 
@@ -18,7 +18,7 @@ or
 
 <div id='app452' class='appbrain-app'><a href='http://www.appbrain.com/app/aparto-send-sms-in-one-click/com.badlydone.aparto' style='font-size: 11px; color: #555; font-family: Arial, sans-serif;'>Click here</a></div>
 
-===CHANGE LOG===
+## CHANGELOG ##
 
 2.2
 
